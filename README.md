@@ -1,11 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ashen&layout=compact&hide=css,html" alt="githubprofilecard"/>
 <!--<a href="https://www.codewars.com/users/tomas_anderson"><img src="https://www.codewars.com/users/tomas_anderson/badges/large"></a>-->
 <!--
-📚 Books: 
-
+### 📚 Books: <br>
+✔ Dive Into DESIGN PATTERNS -  Alexander Shvets - 2019 <br> 
+✔ Grokking Algorithms - Aditya Bhargava - 2017 <br>
+⏳ The Object-Oriented Thought Process - 2014 <br>
 -->
+
 <!--
 **0ashen/0ashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
