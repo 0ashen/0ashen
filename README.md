@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ashen&layout=compact&hide=css,html" alt="githubprofilecard"/>
-<!--<a href="https://www.codewars.com/users/tomas_anderson"><img src="https://www.codewars.com/users/tomas_anderson/badges/large"></a>-->
+<a href="https://www.codewars.com/users/tomas_anderson"><img src="https://www.codewars.com/users/tomas_anderson/badges/large"></a>
 <!--
 ### 📚 Books:  <br>
 ✔ Dive Into DESIGN PATTERNS -  Alexander Shvets <br>
