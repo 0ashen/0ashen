@@ -4,7 +4,7 @@
 <a href="https://www.codewars.com/users/thomas_a_anderson"><img src="https://www.codewars.com/users/thomas_a_anderson/badges/large"></a>
 <br/><br/>
 <div>
-  <a href="https://leetcode.com/0ashen/" target="_blank"><img src="leetcode.svg" width="150"/></a>
+  <a href="https://leetcode.com/0ashen/" target="_blank"><img src="leetcode.svg?1" width="150"/></a>
   &nbsp;
   &nbsp;
   &nbsp;
