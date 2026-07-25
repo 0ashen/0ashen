@@ -1,29 +1,33 @@
-## Hi there 👋
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ashen&layout=compact&hide=css,html&theme=tokyonight" alt="githubprofilecard"/>
-<a href="https://www.codewars.com/users/thomas_a_anderson"><img src="https://www.codewars.com/users/thomas_a_anderson/badges/large"></a>
-<br/><br/>
-<div>
-  <a href="https://leetcode.com/0ashen/" target="_blank"><img src="leetcode.svg?1" width="150"/></a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://gitlab.com/0ashen" target="_blank"><img src="gitlab.svg" width="40"/></a>
-</div>
-
-
-
-<!--
-**0ashen/0ashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+;++;  +xx;;. .xxx+;++xxx$Xx;:;;+xXX$XXXxX$xxxxx+:;+xxx++xxxxxxx++XXx+;;x+
+;++; .+xx;+. .xxx+;+xxx+;+::::;x$Xx+++:;x$XXXXx+::xxx+++++++++xx&&&$x;;;:
+:++: .+xx;;  :xxx;;+xx++x+::;;++xx+;:::..+$$XXx;.:+xx+++++++++x$&&&$;::;:
+::;: .+xx:;  :xxx;;;;:..::.::;:++;....   .++++;:.:;;;;;;;+++;;;+$&$x:::++
+..:: .+++::  :x++;.:..       :.       :  ;Xxx+:  :+++;;;;;;:::;X&&&x.:;;:
+  ::  ::..    . .;::.  .                 +$$$X+:.;xxx++++++;;+x&&&&X.;x+ 
+  :.  ::;       :+..:  +.       . ..    ..x++x+:.:;;;;;;;;;;;;+X$$+. :;: 
+ .;: :+:::   :;.:; ..; :           .:    ;;:;x+;:..        ..:.   .::..  
+  :. .;:::.   . .:  .x&xx.        .;+;   :&&&&&&&&&&+               ...  
+  :.  ..::.     :X&&&&&$x  .:      .::;::x&&&&&&&&&&$$+.            .:.  
+  :.    .;:  .x&$Xxx+x&+;..:;.       .;..+x$&&&$&&&$$&&&&;          ...  
+  :     .   ;$&&&$$X;;x: :X:     ... .  .;:.::++&&x+xX$&$$&&+     . ..   
+  :  ....  +$&&&&X$&&xx+.          ..   .;:   .X&X:;X&&&&X$&&X.  ...... .
+  :  . .  +xxX$&$X$$$XX$.   .      .      .   ;&$X&&&&$$&&&&&&X: .::::. .
+  :.   . :++++X$+;++;:+&x                    :$&x$&&&&&&&&&&&&$x...:;:.  
+  :.   . ;;+;.+Xx  ..:+&&..               :xXx&x:xXXX$$&X&&&&&$x:        
+  .    . ..:.. ..   .:;&&+              .;+xx$&x..:+;+xxxx$$$XX+:        
+ .:    .  :           :XXx:            ....;x&&x:   ...:+xxX$X+:.        
+ ;:    . ;;..:::.     :++;;:               ;$&&+;.      .:+++::.;        
+ ;:    :X$$$$$&&&$+   :;;;;;;;:.        :;;++xx+.     .:+xx+;+xX&+       
+ ::   .XXXX$&$Xx$$+:  ::;;;;;;;;+;;++xXx++;+++xx:   +X&&&&&&&&&&&$:      
+:;.   x+xxxXX$&$;:;:  .:;;;;;;;;;;;;+++;;++++++++: ;&&&&&&&&&&&&&&x      
+x+.  .+xXx++x+::::.  .::::;;;;;;+;;;+++++++++++;:..;x$X$&&&&&&$&&$X:     
+;;   ;xX$&$;:....     x:.::;;;;;;;;;++++++++++;;:....:XXX&&&&&$$$$X+:    
+.:   ;XXX$&&&$x:    .:X&&x. ..  :. ::;++++++++;::;;:.::;;+X&&&&$$X+:.    
+..   ;;::;+xX&&$xx; .;$&&Xxxx+;;::::;+.:;;;;::::;;+;+X&&&&&&&&&X$+:+X:   
+...:;+.  .::;+X$$$X+:+$&&X;:;;x+;:::::::::::::;;X$&&&&&&$$$XXXXXXx+xx:   
+$x++x+::.:+xX$$$XXX$XX$&&&X++:::;;:;;;;;;x$$&&&&&&&&Xx++::.....:;+x;:    
+$;.:;;:;:::::;;;;++xXXX$&&&&&&&XX&&&&&&&&&&&&&&&&&&&&&$X+:..    +x;::::. 
+$;.:;;.          ..:+XxX$&&&&&&&&&&&&&$$$$$$XXXXXxxxxxx+;:...:+$$;:..... 
+$;;;;;;;;             .;+xx&&&&X&&+&x:....  ..              ..:..:;:.:+XX
+    ..::;:             +++x+++X+;$&+xX;                      ...:;+++++x+
+                    .  :::+;. .x .++. .            ...:;.;+xxxXXXXxxxx+x;
